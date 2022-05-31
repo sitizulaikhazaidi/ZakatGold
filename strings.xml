@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ZakatGold</string>
+    <string name="get_weight">Weight of the Gold (Gm)</string>
+    <string name="get_type">Type of Gold</string>
+    <string name="gold">gold</string>
+    <string name="wear">wear</string>
+    <string name="get_current">Current Gold Value Per Gram (RM)</string>
+    <string name="calculate">Calculate</string>
+    <string name="tv_about_us">About Us</string>
+
+    <string name="t_information">INFORMATION</string>
+    <string name="t_student_name">Student Name:</string>
+    <string name="t_student_id">Student ID:</string>
+    <string name="t_group">Group:</string>
+    <string name="t_program_code">Program Code:</string>
+    <string name="t_github">Github URL:</string>
+
+    <string name="information">ZakatGold is developed to estimates the zakat payment for gold keeping. In this application, the user must enter their gold weight and have to choose their types of gold either keep or wear. As soon as the user enters the required data, the total value of the gold, zakat payable, uruf and total zakat will be calculated. This application was created to make it simple and easier for people to pay zakat for gold.</string>
+    <string name="student_name">SITI ZULAIKHA BINTI ZAIDI</string>
+    <string name="student_name1">NUR HAZMIERA BINTI MOHD HAZLINE</string>
+    <string name="student_id">2021117801</string>
+    <string name="student_id1">2021114343</string>
+    <string name="group">RCS2405A</string>
+    <string name="program_code">ICT602</string>
+    <string name="github">
+        <a href="https://github.com/sitizulaikhazaidi/ZakatGold.git">https://github.com/sitizulaikhazaidi/ZakatGold.git</a></string>
+    <string name="copyright">Copyright &#169; 2022 SZNH</string>
+
+</resources>
